@@ -27,5 +27,5 @@ class HelloWorld
         return $stmt->fetchColumn();
     }
 }
-c ccvfgc c
+c ccvfgc cbc
 tyitk
